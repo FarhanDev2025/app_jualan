@@ -1,5 +1,7 @@
 # app_jualan
 
+menu tampilan awal
+
 A new Flutter project.
 
 ## Getting Started
