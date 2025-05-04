@@ -2,14 +2,14 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
 class AppTheme {
-  static const Color primaryColor = Color(0xFF4F46E5);
-  static const Color primarylight = Color(0xFF818cf8);
-  static const Color primaryDark = Color(0xFF3730A3);
+  static const Color primaryColor = Color.fromARGB(255, 162, 0, 255);
+  static const Color primarylight = Color.fromARGB(255, 214, 117, 255);
+  static const Color primaryDark = Color.fromARGB(255, 98, 36, 133);
 
   static const Color secondaryColor = Color.fromARGB(255, 255, 0, 0);
   static const Color tertiaryColor = Color(0xFF1488A6);
 
-  static const List<Color> primaryGradient = [primaryColor, Color(0xFF6366F1)];
+  static const List<Color> primaryGradient = [primaryColor, Color.fromARGB(255, 208, 99, 241)];
 
   static const Color backgroundColor = Color(0xFFF8FAFC);
   static const Color surfaceColor = Color(0xFFF8FAFC);
