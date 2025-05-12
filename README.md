@@ -1,6 +1,7 @@
 # app_jualan
 
 menu tampilan awal
+memasuki menu tampilan
 
 A new Flutter project.
 
